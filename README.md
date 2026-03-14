@@ -59,5 +59,6 @@ Para rodar o projeto, use o arquivo original fornecido pela FIAP e coloque-o em 
 
 ## Entregáveis
 
-- Repositório (GitHub ou Google Colab) com o código completo.
-- Vídeo de apresentação (5 a 10 min) com trabalho, resultados e conclusões.
+- Repositório: https://github.com/FHDumont/tech-challenge-fase3
+- Vídeo de apresentação: https://www.youtube.com/watch?v=zo0yjccKOrw
+
